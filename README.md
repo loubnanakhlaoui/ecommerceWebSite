@@ -6,7 +6,9 @@ A modern e-commerce website for selling computer hardware, built with Laravel, B
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/b2653c98-b596-4954-84fb-870eda039d31">
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/5a2751d3-1c7e-49b7-8880-6c55220e85f6">
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/6768aa5b-20c9-4c3a-9ff0-a2312ad75069">
-Test card for a successful payment in Stripe:  
+
+
+- **Test card for a successful payment in Stripe:** 
 
 - **Card number:** 4242 4242 4242 4242  
 - **Expiration date:** Any valid future date (e.g., 12/34)  
