@@ -6,10 +6,12 @@ A modern e-commerce website for selling computer hardware, built with Laravel, B
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/b2653c98-b596-4954-84fb-870eda039d31">
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/5a2751d3-1c7e-49b7-8880-6c55220e85f6">
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/6768aa5b-20c9-4c3a-9ff0-a2312ad75069">
-**Test card for a successful payment in Stripe:**  
+Test card for a successful payment in Stripe:  
+
 - **Card number:** 4242 4242 4242 4242  
 - **Expiration date:** Any valid future date (e.g., 12/34)  
-- **CVC:** Any three-digit number (e.g., 123)  
+- **CVC:** Any three-digit number (e.g., 123)
+  
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/6997ffb5-3c73-4fbb-ba0f-2ae684ae7802">
 <img width="402" alt="image" src="https://github.com/user-attachments/assets/7a09aa4c-d01d-440e-83f3-ed48c592bc64">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/c458f302-dde9-4a99-ad6f-25555b1359d2">
